@@ -1,7 +1,7 @@
 // C program to add two numbers
 #include<stdio.h>
  
-int main()
+sum2()
 {
     int A, B, sum = 0;
      
@@ -18,5 +18,6 @@ int main()
     // Print the sum
     printf("Sum of A and B is: %d", sum);
      
-    return 0;
+    //return 0;
 }
+

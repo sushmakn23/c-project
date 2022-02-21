@@ -1,5 +1,5 @@
 #include<stdio.h>  
-int main()    
+palindrome()    
 {    
 int n,r,sum=0,temp;    
 printf("enter the number=");    
@@ -15,5 +15,5 @@ if(temp==sum)
 printf("palindrome number ");    
 else    
 printf("not palindrome");   
-return 0;  
+//return 0;  
 }   
